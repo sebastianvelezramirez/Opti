@@ -1,0 +1,21 @@
+# .NET build output
+bin/
+obj/
+App_Data/
+
+# Visual Studio settings
+.vs/
+*.user
+*.suo
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Databases
+*.mdf
+*.ldf
+*.db

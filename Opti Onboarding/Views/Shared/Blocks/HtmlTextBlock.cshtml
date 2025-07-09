@@ -1,0 +1,6 @@
+@model Alloy.Models.Blocks.HtmlTextBlock
+
+<div class="html-text-block">
+    @Html.PropertyFor(x => x.HtmlContent)
+    <p><strong>Team:</strong> @Model.Team</p>
+</div>
